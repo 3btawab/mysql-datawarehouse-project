@@ -1,0 +1,11 @@
+DROP DATABASE IF EXISTS data_warehouse;
+
+CREATE DATABASE data_warehouse;
+
+USE data_warehouse;
+
+create schema bronze
+
+create schema silver
+
+create schema gold
